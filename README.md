@@ -2,6 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)](#) [![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple)](#) [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)](https://scikit-learn.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/manojchoudhary404)
 
+<img width="1200" height="565" alt="Screenshot 2026-01-19 at 11 56 17 AM" src="https://github.com/user-attachments/assets/e5853c94-c21e-4740-913d-7b3c83847935" />
+<img width="642" height="544" alt="Screenshot 2026-01-19 at 11 56 46 AM" src="https://github.com/user-attachments/assets/1c20403a-6a53-48dc-b729-7a63346db360" />
+
 ## 🔹 Overview
 A **Machine Learning–based Sentiment Analysis System** that classifies **movie reviews** as **Positive** or **Negative** using **Natural Language Processing (NLP)** techniques and supervised learning algorithms. This project demonstrates **data cleaning, text preprocessing, feature extraction, model training, evaluation, and prediction** on real-world textual data.
 
@@ -85,5 +88,6 @@ Sentiment-Analysis/
 This project is licensed under the MIT License. © 2026 Manoj Choudhary
 
 ## 👨‍💻 Author
-Manoj Choudhary | 🎓 MCA Student | Backend Developer | NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manojchoudhary](https://www.linkedin.com/in/manojchoudhary) | Email: manojchoudhary.7.in@gmail.com
+Manoj Choudhary | 🎓 MCA Student | Backend Devel![Uploading Screenshot 2026-01-19 at 11.56.17 AM.png…]()
+oper | NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manojchoudhary](https://www.linkedin.com/in/manojchoudhary) | Email: manojchoudhary.7.in@gmail.com
 
