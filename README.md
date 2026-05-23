@@ -88,6 +88,6 @@ Sentiment-Analysis/
 This project is licensed under the MIT License. © 2026 Manoj Choudhary
 
 ## 👨‍💻 Author
-Manoj Choudhary | 🎓 MCA Student | Backend Devel![Uploading Screenshot 2026-01-19 at 11.56.17 AM.png…]()
-oper | NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manojchoudhary](https://www.linkedin.com/in/manojchoudhary) | Email: manojchoudhary.7.in@gmail.com
+Manoj Choudhary | 🎓 MCA Student | Backend Developer
+| NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manoj-choudhary/](https://www.linkedin.com/in/manojchoudhary) | Email: manojchoudhary.7.in@gmail.com
 
