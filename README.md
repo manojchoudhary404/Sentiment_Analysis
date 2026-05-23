@@ -89,5 +89,5 @@ This project is licensed under the MIT License. © 2026 Manoj Choudhary
 
 ## 👨‍💻 Author
 Manoj Choudhary | 🎓 MCA Student | Backend Developer
-| NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manoj-choudhary/](https://www.linkedin.com/in/manojchoudhary) | Email: manojchoudhary.7.in@gmail.com
+| NLP & Machine Learning Enthusiast | GitHub: [https://github.com/manojchoudhary404](https://github.com/manojchoudhary404) | LinkedIn: [https://www.linkedin.com/in/manoj-choudhary/](https://www.linkedin.com/in/manojchoudhary7) | Email: manojchoudhary.7.in@gmail.com
 
